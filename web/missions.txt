@@ -1,0 +1,10 @@
+ALL missions list:
+1   find a legal job
+2   outsmart your boss
+4   get into a fight
+5   patch yourself up
+3   hire thugs
+4   do a job
+5   bribe a police officer
+6   buy a place
+7   rob the bank
